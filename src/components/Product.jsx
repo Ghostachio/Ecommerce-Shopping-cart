@@ -1,4 +1,8 @@
-
+import "../assets/image-product-1.jpg"
+import "../assets/image-product-1-thumbnail.jpg"
+import "../assets/image-product-2-thumbnail.jpg"
+import "../assets/image-product-3-thumbnail.jpg"
+import "../assets/image-product-4-thumbnail.jpg"
 
 const Product = () => {
   return (
